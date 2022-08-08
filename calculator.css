@@ -1,0 +1,97 @@
+.first{
+    font-size: 60px;
+    background-color:grey;
+    border-radius:30px
+}
+#btn11{
+    height: 75px;
+    width: 46px;
+    background-color:orange;
+    border-radius:30px
+}
+.second{
+    font-size: 60px;
+    background-color:grey;
+    border-radius:30px
+}
+#btn12{
+    margin-left: 5px;
+    position: absolute;
+    height: 75px;
+    width: 45px;
+    font-size:30px;
+    background-color:orange;
+    border-radius:30px
+}
+#btn13{
+    height: 60px;
+    width: 123px;
+    font-size: 40px;
+    background-color:rgb(231, 77, 21);
+    border-radius:20px;
+}
+#btn14>img{
+    height: 56px;
+    width: 144px;
+    margin-top: -41px;
+    position: absolute;
+    margin-left: -12px;
+    border-radius:20px
+}
+#btn15{
+    margin-left: 125px;
+    height: 62px;
+    width: 45px;
+    margin-top: 0px;
+    position: absolute;
+    font-size:30px;
+    background-color:orange;
+    border-radius:20px
+}
+#btn16{
+    height: 55px;
+    width: 123px;
+    font-size: 30px;
+    background-color:orange;
+    border-radius:20px
+}
+#btn17{
+    height: 57px;
+    width: 143px;
+    font-size: 30px;
+    margin-left: -1px;
+    margin-top: -2px;
+    position: absolute;
+    background-color:orange;
+    border-radius:20px
+}
+#btn18{
+    height: 57px;
+    width: 47px;
+    margin-top: -2px;
+    position: absolute;
+    margin-left: 143px;
+    font-size: 30px;
+    background-color:orange;
+    border-radius:20px
+}
+.box{
+    margin-left: 600px;
+    margin-top: 200px;
+}
+#result{
+    height: 10vh;
+    width: 33%;
+    border: 2px dotted green;
+    border-radius: 20px;
+    box-shadow: 1px 15px 10px grey;
+    margin-bottom: 18px;
+    font-size: 25px;
+    color: green;
+    margin-top: 116px;
+    position: absolute;
+    margin-left: 500px;
+}
+.first:hover, .second:hover , #btn13:hover , #btn14:hover , #btn15:hover , #btn16:hover , #btn17:hover , #btn18:hover{
+    transform: scale(1.1)
+}
